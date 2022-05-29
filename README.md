@@ -13,7 +13,7 @@ This is a simple webpage which displays different name of the cities in india dy
 ![App Screenshot](https://github.com/Ashwini1011/Mera-Bharat-Mahan/blob/master/2022-05-30%20(5).png)
 
 
-## Click Here to see zomato clone
+## Click Here
   https://ashwini1011.github.io/Mera-Bharat-Mahan/
 
 ## Author
